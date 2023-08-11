@@ -10,7 +10,7 @@ function App() {
     <>
     <div className='main'>
     <h1 className='title'>WELCOME TO TECH PRENEUR</h1>
-      <h4 className='subtitle'>Making your Tech deram come ture</h4>
+      <h4 className='subtitle'>Making your Tech dream come true</h4>
       <p className='p1'>we are all this technology</p>
 
       <div className='media'>
